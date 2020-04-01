@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "again-7aa21": {
+      "hosting": {
+        "web": [
+          "again-7aa21"
+        ]
+      }
+    }
+  }
+}
